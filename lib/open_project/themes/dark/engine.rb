@@ -7,6 +7,9 @@ module OpenProject::Themes::Dark
         require 'open_project/themes/dark/all'
       end
     end
+    initializer 'themes.dark.precompile_assets' do
+      Rails.application.config.assets.precompile += %w(dark.css)
+    end
 
     config.to_prepare do
       require 'redmine/plugin'
