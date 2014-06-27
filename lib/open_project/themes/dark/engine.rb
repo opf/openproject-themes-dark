@@ -22,7 +22,7 @@ module OpenProject::Themes::Dark
 
         version OpenProject::Themes::Dark::VERSION
 
-        requires_openproject ">= 3.0.8"
+        requires_openproject ">= 4.0.0"
       end
     end
   end
