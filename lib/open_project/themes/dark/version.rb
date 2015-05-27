@@ -1,7 +1,7 @@
 module OpenProject
   module Themes
     module Dark
-      VERSION = "4.2.0-alpha"
+      VERSION = "4.3.0-alpha"
     end
   end
 end
