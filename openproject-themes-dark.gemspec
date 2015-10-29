@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.name        = "openproject-themes-dark"
   s.version     = OpenProject::Themes::Dark::VERSION
   s.authors     = ["Martin Linkhorst"]
-  s.email       = ["m.linkhorst@finn.de"]
-  s.homepage    = "http://www.finn.de/"
+  s.email       = ["info@openproject.com"]
+  s.homepage    = "http://www.openproject.com/"
   s.summary     = "Custom themes for OpenProject"
   s.description = "Custom themes for OpenProject and a Generator to bootstrap new themes"
 
