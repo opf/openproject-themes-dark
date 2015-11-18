@@ -13,12 +13,12 @@ module OpenProject::Themes::Dark
       require 'open_project/themes/dark/version'
 
       Redmine::Plugin.register 'Dark-Theme' do
-        name 'Finnlabs Themes'
-        author 'Finn GmbH'
+        name 'OpenProject Dark Themes'
+        author 'OpenProject GmbH'
         description 'Custom dark theme for OpenProject'
 
-        url 'https://github.com/finnlabs/finnlabs-themes'
-        author_url 'http://www.finn.de'
+        url 'https://github.com/finnlabs/openproject-themes-dark'
+        author_url 'http://www.openproject.com'
 
         version OpenProject::Themes::Dark::VERSION
 
