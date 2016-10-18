@@ -1,7 +1,7 @@
 module OpenProject
   module Themes
     module Dark
-      VERSION = "6.0.5"
+      VERSION = "6.0.6"
     end
   end
 end
