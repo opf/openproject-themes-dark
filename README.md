@@ -1,6 +1,16 @@
 OpenProject Dark-Theme Plugin
 =============================
 
+<hr>
+
+:warning: :warning: :warning:
+
+This plugin is discontinued. It's functionality is replaced by the [theming functionality build into OpenProject](https://www.openproject.org/de/custom-themes-and-logo/)
+
+:warning: :warning: :warning:
+
+<hr>
+
 This Plugin adds the dark theme to OpenProject which provides an alternative to the default OpenProject theme. The theme can be activated in the account settings for each individual user.
 
 A more detailed description can be found on [OpenProject.org](https://community.openproject.org/projects/dark-theme).
